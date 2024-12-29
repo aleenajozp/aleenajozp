@@ -1,0 +1,35 @@
+.main {
+    background-color: red;
+    padding-left: 450px;
+}
+
+.m1 {
+    display: inline-block;
+    margin-right: 50px;
+}
+
+.m2 {
+    display: inline-block;
+    margin-right: 50px;
+}
+
+.m3 {
+    display: inline-block;
+    margin-right: 50px;
+}
+
+.m4 {
+    display: inline-block;
+}
+
+.text {
+    max-width: 400px;
+    height: 400px;
+    margin-left: 200px;
+}
+
+.img {
+    float: right;
+    border-radius: 50%;
+    margin-right: 50px;
+}
